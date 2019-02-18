@@ -1,3 +1,1 @@
-Demo:
-
-http://bit.do/furry_game
+http://bartadamiak.nazwa.pl/Furry_game/
