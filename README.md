@@ -1,1 +1,2 @@
-http://bartadamiak.nazwa.pl/Furry_game/
+http://hosting1907205.online.pro/furry
+
